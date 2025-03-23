@@ -1,4 +1,4 @@
-// 3/20 S M e, b
+// 3/20 wallet-scan-bot-Meta-config
 export const apiId = 10244588;
 export const apiHash = "79f37b5bc548efb4a2766794853e625f";
 export const rpc =
